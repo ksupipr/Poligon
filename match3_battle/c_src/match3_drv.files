@@ -1,0 +1,7 @@
+erl_nif_compat.h
+snappy_nif.cc
+snappy_nif.o
+snuppy.config
+snuppy.creator
+snuppy.files
+snuppy.includes

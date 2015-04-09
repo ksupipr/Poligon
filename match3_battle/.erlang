@@ -1,0 +1,9 @@
+code:add_patha("/home/user/server/Pol_erl_serv/match3_battle/ebin").
+
+code:add_pathsa([ "/home/user/server/Pol_erl_serv/match3_battle/deps/eredis/ebin"
+, "/home/user/server/Pol_erl_serv/match3_battle/deps/erlcron/ebin"
+, "/home/user/server/Pol_erl_serv/match3_battle/deps/gproc/ebin"
+%%drwxr-xr-x  8 root root 4096 May 15 17:53 edown
+%%drwxr-xr-x  7 root root 4096 May 15 17:53 gen_leader
+]).
+

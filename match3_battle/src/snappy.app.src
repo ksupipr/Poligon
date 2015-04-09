@@ -1,0 +1,12 @@
+{application, snappy,
+ [
+  {description, "snappy match3 Erlang NIF wrapper"},
+  {vsn, "0.0.1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {env, []},
+  {modules, [snappy,match_erl_drv]}
+ ]}.

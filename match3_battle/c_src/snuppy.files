@@ -1,0 +1,5 @@
+erl_nif_compat.h
+snappy_nif.cc
+snappy_nif.o
+poligmain.h
+poligmain.cc
